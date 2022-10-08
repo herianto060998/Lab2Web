@@ -38,3 +38,13 @@
 ## JAWABAN 
 
 - 
+
+- perbedaan pendeklarasian h1 dengan #intro h1 hanya pada #intro (properti Id )yaitu berfungsi memanggil selector dari #intro agar tampilah h1 mengikuti dengan #intro. contoh h1 tanpa #intro <p>
+
+![gambar13](gm/jb.png.png)
+
+- deklarasi eksternal karena Salah satu cara yang paling nyaman untuk menambahkan CSS ke website dengan menghubungkannya ke file .CSS eksternal. Dengan cara tersebut, perubahan apapun yang Anda buat pada file CSS akan tampil pada website Anda secara keseluruhan <p>
+
+![gambar14](gm/e2.png.png)
+
+- deklarasi id karena id berfungsi untuk memanggil selector dari properti yang lain <p>
